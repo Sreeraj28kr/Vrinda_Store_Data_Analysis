@@ -2,6 +2,9 @@
 🎯Objective: Vrinda Store wants to create an annual sales report for 2022. So that they can understand their customers and grow more sales in 2023.
 
 
+## Project Dashboard
+<img width="928" alt="Vrinda Store Dashboard" src="https://github.com/Sreeraj28kr/Vrinda_Store_Data_Analysis/assets/153048765/f92fd601-a777-4132-9564-78c2819582af">
+
 📝Sample Questions:
 1. Compare sales & orders using single chart.
 2. Which month got the highest sales & orders?
