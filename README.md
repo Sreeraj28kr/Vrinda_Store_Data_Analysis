@@ -1,5 +1,5 @@
-# Vrinda_Store_Data_Analysis
-🎯Objective: Vrinda Store wants to create an annual sales report for 2022. So that they can understand their customers and grow more sales in 2023.
+# Vrinda_Store_Annual_Report
+🎯Objective: The primary objective of “Vrinda Store Annual Report 2022” was to analyze customer behavior and sales performance and grow more in 2023.
 
 
 ## Project Dashboard
@@ -13,6 +13,13 @@
 5. List top 5 states contributing to the sales.
 6. Relation between age & gender.
 7. Which channel is contributing to maximum sales?
+
+📉Steps Involved :
+1. Data Extraction - I gathered the data in an Excel (.XLSX) format.
+2. Data Cleaning - This crucial step ensured the reliability and accuracy of the raw data by fixing inconsistent values and handling NULL entries.
+3. Data Processing - To gain deeper insights, I added two new columns, 'Age Group' and 'Month,' to the dataset.
+4. Data Analysis - I leveraged Pivot Tables to uncover meaningful patterns and trends in the data.
+5. Data Visualization - I transformed these insights into engaging charts, graphs, and slicers to make the data more accessible.
 
 📉Sample Insight: 
 1. Women are more likely to buy compared to men.
